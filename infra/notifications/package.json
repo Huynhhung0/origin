@@ -28,7 +28,7 @@
   "dependencies": {
     "@origin/growth-shared": "^0.1.0",
     "@origin/identity": "^0.1.0",
-    "@sendgrid/mail": "^6.4.0",
+    "@sendgrid/mail": "^7.0.0",
     "apn": "^2.2.0",
     "cross-fetch": "^3.0.4",
     "dotenv": "^8.0.0",
@@ -39,7 +39,7 @@
     "logplease": "^1.2.15",
     "mjml": "^4.5.1",
     "per-env": "^1.0.2",
-    "pg": "^7.11.0",
+    "pg": "^8.0.0",
     "pg-hstore": "^2.3.3",
     "sequelize": "^5.8.12",
     "sequelize-cli": "^5.5.0",
@@ -54,7 +54,7 @@
     "json-stable-stringify": "1.0.1",
     "mocha": "7.0.1",
     "nodemon": "2.0.2",
-    "prettier": "1.19.1"
+    "prettier": "2.0.5"
   },
   "prettier": {
     "semi": false,
