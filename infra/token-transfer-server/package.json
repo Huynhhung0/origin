@@ -69,8 +69,8 @@
     "chai-as-promised": "7.1.1",
     "chai-bignumber": "3.0.0",
     "chai-moment": "0.1.0",
-    "mocha": "7.1.1",
-    "nodemon": "2.0.2"
+    "mocha": "7.1.2",
+    "nodemon": "2.0.3"
   },
   "prettier": {
     "semi": false,
